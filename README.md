@@ -1,6 +1,6 @@
 # Desafio Sistema Bancario
 
-Esta é a minha resolução para o desafio proposto pela DIO, o qual era necessário criar, de forma simples, um sistema bancario que fazia apenas as operações de deposito, saque e extrato
+Esta é a minha resolução para o desafio proposto pela DIO, o qual era necessário aprimorar o sistema bancario que foi feito anteriormente (encontrado na branch main). Todas as operações realizadas no sistema foram transformadas em funções, além de adicionar as operações de cadastrar cliente e cadastrar conta.
 
 ## Ferramentas Utilizadas
 
