@@ -1,13 +1,12 @@
-
 # Desafio Sistema Bancario
 
 Neste repositório você encontrará as resoluções para os desafios de Sistema Bancario propostos no bootcamp Coding The Future Vivo - Python AI Backend Developer. As branches possuem as variedades das resoluções pedidas.
 
 Na branch desafio1, temos o primeiro desafio proposto:
   Nele, foi construído um sistema bancario da forma mais simples possível onde não foi considerado múltiplos clientes nem contas e que realizava apenas as operações:\
-         - Depositar \
-         - Sacar \
-         - Vizualizar o Extrato.
+          [x] Depositar \
+          [x] Sacar \
+          [x] Vizualizar o Extrato.
 
 Na branch desafio2, temos o segundo desafio proposto:
   Nele, foi feita apenas algumas mudanças em relação ao primeiro desafio, colocando todas as operações em funções. Assim, tal resolução possui as seguintes operações: \
